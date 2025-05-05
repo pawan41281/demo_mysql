@@ -89,6 +89,9 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		
+		<finalName>countryapi</finalName>
+		
 	</build>
 
 </project>
